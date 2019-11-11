@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/BrahimAZ400/Parts%20Unlimited/_apis/build/status/brahimbb.pipelines-java?branchName=master)](https://dev.azure.com/BrahimAZ400/Parts%20Unlimited/_build/latest?definitionId=4&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
